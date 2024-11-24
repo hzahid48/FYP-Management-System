@@ -1,0 +1,690 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\25130f0841ffbff291b41b40e1e0adc85e3b09209566c2920e57cfa11130ea98\\SafeHandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\projectdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\projectdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisorviewactivefyps.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisorviewactivefyps.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\assignfyp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\assignfyp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\pm_assignedfyp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\pm_assignedfyp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\viewstudents.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\viewstudents.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\viewfypgroupdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\viewfypgroupdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\generatereports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\generatereports.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisorcommunicatewithgroup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisorcommunicatewithgroup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisoralerts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisoralerts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\studenttranscript.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\studenttranscript.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\studentreview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\studentreview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\studentprogressreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\studentprogressreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\studentmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\studentmaster.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\studenthome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\studenthome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\studentassignment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\studentassignment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\setprojectdeadlines.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\setprojectdeadlines.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\pm_missingeval.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\pm_missingeval.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\panelmemberreview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\panelmemberreview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\panelmemberhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\panelmemberhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\panelmemberevaluation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\panelmemberevaluation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\default2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\default2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\createuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\createuser.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\createprojectpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\createprojectpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\creategroup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\creategroup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\confirmfyp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\confirmfyp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisorfypmaterials.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisorfypmaterials.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisorsupplementarymaterial.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisorsupplementarymaterial.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisorsubmitrequest.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisorsubmitrequest.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisorproposals.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisorproposals.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisorprogressreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisorprogressreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisormakesuggestion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisormakesuggestion.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisorfinalreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisorfinalreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisorevaluations.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisorevaluations.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisordeadlines.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisordeadlines.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|c:\\users\\user\\downloads\\sewebsite (2)\\sewebsite\\sewebsite\\supervisorcommunicatewithgroup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{37F6B176-E20F-4B1E-8BCC-53205A454204}|C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite|solutionrelative:sewebsite\\supervisorcommunicatewithgroup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SafeHandle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\25130f0841ffbff291b41b40e1e0adc85e3b09209566c2920e57cfa11130ea98\\SafeHandle.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\25130f0841ffbff291b41b40e1e0adc85e3b09209566c2920e57cfa11130ea98\\SafeHandle.cs",
+              "ToolTip": "C:\\Users\\User\\AppData\\Local\\Temp\\.vsdbgsrc\\25130f0841ffbff291b41b40e1e0adc85e3b09209566c2920e57cfa11130ea98\\SafeHandle.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\25130f0841ffbff291b41b40e1e0adc85e3b09209566c2920e57cfa11130ea98\\SafeHandle.cs [Read Only]",
+              "ViewState": "AQIAADkAAAAAAAAAAAAQwEYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:43:55.323Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssignFYP.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\AssignFYP.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\AssignFYP.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\AssignFYP.aspx.cs",
+              "RelativeToolTip": "sewebsite\\AssignFYP.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:05:29.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupervisorViewActiveFYPs.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorViewActiveFYPs.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorViewActiveFYPs.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorViewActiveFYPs.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SupervisorViewActiveFYPs.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowCUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:04:11.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\ProjectDetails.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\ProjectDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\ProjectDetails.aspx.cs",
+              "RelativeToolTip": "sewebsite\\ProjectDetails.aspx.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAAJoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:09:29.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignIn.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SignIn.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SignIn.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SignIn.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SignIn.aspx.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:15:00.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PM_AssignedFYp.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\PM_AssignedFYp.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\PM_AssignedFYp.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\PM_AssignedFYp.aspx.cs",
+              "RelativeToolTip": "sewebsite\\PM_AssignedFYp.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:08:09.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SupervisorCommunicateWithGroup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorCommunicateWithGroup.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorCommunicateWithGroup.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorCommunicateWithGroup.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SupervisorCommunicateWithGroup.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:02:05.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewFYPGroupDetails.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\ViewFYPGroupDetails.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\ViewFYPGroupDetails.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\ViewFYPGroupDetails.aspx.cs",
+              "RelativeToolTip": "sewebsite\\ViewFYPGroupDetails.aspx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:31:45.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewStudents.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\ViewStudents.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\ViewStudents.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\ViewStudents.aspx.cs",
+              "RelativeToolTip": "sewebsite\\ViewStudents.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:32:34.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenerateReports.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\GenerateReports.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\GenerateReports.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\GenerateReports.aspx.cs",
+              "RelativeToolTip": "sewebsite\\GenerateReports.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:06:37.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SupervisorAlerts.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorAlerts.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorAlerts.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorAlerts.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SupervisorAlerts.aspx.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwBgAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:01:56.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentTranscript.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\StudentTranscript.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\StudentTranscript.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\StudentTranscript.aspx.cs",
+              "RelativeToolTip": "sewebsite\\StudentTranscript.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:11:16.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentReview.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\StudentReview.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\StudentReview.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\StudentReview.aspx.cs",
+              "RelativeToolTip": "sewebsite\\StudentReview.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:11:03.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentProgressReport.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\StudentProgressReport.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\StudentProgressReport.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\StudentProgressReport.aspx.cs",
+              "RelativeToolTip": "sewebsite\\StudentProgressReport.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:10:46.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentMaster.master.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\StudentMaster.master.cs",
+              "RelativeDocumentMoniker": "sewebsite\\StudentMaster.master.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\StudentMaster.master.cs",
+              "RelativeToolTip": "sewebsite\\StudentMaster.master.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:15:51.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentAssignment.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\StudentAssignment.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\StudentAssignment.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\StudentAssignment.aspx.cs",
+              "RelativeToolTip": "sewebsite\\StudentAssignment.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:05:05.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SetProjectDeadlines.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SetProjectDeadlines.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SetProjectDeadlines.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SetProjectDeadlines.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SetProjectDeadlines.aspx.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowAcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:09:46.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentHome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\StudentHome.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\StudentHome.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\StudentHome.aspx.cs",
+              "RelativeToolTip": "sewebsite\\StudentHome.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:10:19.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\Login.aspx.cs",
+              "RelativeToolTip": "sewebsite\\Login.aspx.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwFwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:06:43.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\MasterPage.master",
+              "RelativeDocumentMoniker": "sewebsite\\MasterPage.master",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\MasterPage.master",
+              "RelativeToolTip": "sewebsite\\MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T14:21:46.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PM_MissingEval.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\PM_MissingEval.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\PM_MissingEval.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\PM_MissingEval.aspx.cs",
+              "RelativeToolTip": "sewebsite\\PM_MissingEval.aspx.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwBUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:09:16.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PanelMemberReview.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\PanelMemberReview.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\PanelMemberReview.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\PanelMemberReview.aspx.cs",
+              "RelativeToolTip": "sewebsite\\PanelMemberReview.aspx.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAgwEoAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:07:35.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PanelMemberHome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\PanelMemberHome.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\PanelMemberHome.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\PanelMemberHome.aspx.cs",
+              "RelativeToolTip": "sewebsite\\PanelMemberHome.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:07:27.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PanelMemberEvaluation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\PanelMemberEvaluation.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\PanelMemberEvaluation.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\PanelMemberEvaluation.aspx.cs",
+              "RelativeToolTip": "sewebsite\\PanelMemberEvaluation.aspx.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAowL0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:07:07.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Default2.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\Default2.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\Default2.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\Default2.aspx.cs",
+              "RelativeToolTip": "sewebsite\\Default2.aspx.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowGMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:06:20.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateUser.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\CreateUser.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\CreateUser.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\CreateUser.aspx.cs",
+              "RelativeToolTip": "sewebsite\\CreateUser.aspx.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAYwC0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:06:05.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateProjectPanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\CreateProjectPanel.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\CreateProjectPanel.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\CreateProjectPanel.aspx.cs",
+              "RelativeToolTip": "sewebsite\\CreateProjectPanel.aspx.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAgwAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:05:57.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateGroup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\CreateGroup.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\CreateGroup.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\CreateGroup.aspx.cs",
+              "RelativeToolTip": "sewebsite\\CreateGroup.aspx.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAgwAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:05:49.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConfirmFYP.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\ConfirmFYP.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\ConfirmFYP.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\ConfirmFYP.aspx.cs",
+              "RelativeToolTip": "sewebsite\\ConfirmFYP.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:05:43.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SupervisorFYPMaterials.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorFYPMaterials.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorFYPMaterials.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorFYPMaterials.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SupervisorFYPMaterials.aspx.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:02:51.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SupervisorSupplementaryMaterial.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorSupplementaryMaterial.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorSupplementaryMaterial.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorSupplementaryMaterial.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SupervisorSupplementaryMaterial.aspx.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwDIAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:04:02.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SupervisorSubmitRequest.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorSubmitRequest.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorSubmitRequest.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorSubmitRequest.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SupervisorSubmitRequest.aspx.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwCkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:03:46.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SupervisorProposals.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorProposals.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorProposals.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorProposals.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SupervisorProposals.aspx.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwA8AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:03:32.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SupervisorProgressReport.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorProgressReport.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorProgressReport.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorProgressReport.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SupervisorProgressReport.aspx.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAYwBMAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:03:23.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SupervisorMakeSuggestion.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorMakeSuggestion.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorMakeSuggestion.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorMakeSuggestion.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SupervisorMakeSuggestion.aspx.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowEkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:03:11.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SupervisorFinalReport.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorFinalReport.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorFinalReport.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorFinalReport.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SupervisorFinalReport.aspx.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAQwBMAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:02:44.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SupervisorEvaluations.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorEvaluations.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorEvaluations.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorEvaluations.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SupervisorEvaluations.aspx.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwBUAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:02:34.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SupervisorDeadlines.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorDeadlines.aspx.cs",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorDeadlines.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorDeadlines.aspx.cs",
+              "RelativeToolTip": "sewebsite\\SupervisorDeadlines.aspx.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAIwCkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:02:19.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SupervisorCommunicateWithGroup.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorCommunicateWithGroup.aspx",
+              "RelativeDocumentMoniker": "sewebsite\\SupervisorCommunicateWithGroup.aspx",
+              "ToolTip": "C:\\Users\\User\\Downloads\\sewebsite (2)\\sewebsite\\sewebsite\\SupervisorCommunicateWithGroup.aspx",
+              "RelativeToolTip": "sewebsite\\SupervisorCommunicateWithGroup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-05T14:21:00.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

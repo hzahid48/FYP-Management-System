@@ -1,0 +1,118 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Committee Member Dashboard</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet" />  <!-- For icons like arrows -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <style>
+      /* Apply a background image with a relative URL */
+        body {
+            background-image: url('~/images/bgimage.jpg');  /* Change to your image path */
+            background-size: cover;  /* Ensure the image covers the whole area */
+            background-position: center;  /* Center the image */
+            background-repeat: no-repeat;  /* Avoid image repetition */
+            background-attachment: fixed;  /* Background doesn't move while scrolling */
+        }
+
+        /* Style for the navigation bar */
+        .navbar {
+            background-color: #3498db;  /* Bright blue color */
+            color: white;
+        }
+
+        /* Style for the back button */
+        .back-button {
+            color: white;
+            background-color: #2980b9;  /* Slightly darker shade of blue */
+            padding: 10px 20px;  /* Padding for the button */
+            border-radius: 10px;  /* Rounded corners */
+            font-size: 16px;  /* Text size */
+            transition: background-color 0.3s, transform 0.3s;  /* Smooth hover effects */
+            position: absolute;  /* Absolute position */
+            left: 10px;  /* Align to the left */
+            top: 10px;  /* At the top */
+        }
+
+        .back-button:hover {
+            background-color: #1f6391;  /* Darker shade on hover */
+            color: black;  /* Text color change on hover */
+            transform: scale(1.05);  /* Slight zoom effect on hover */
+        }
+
+        /* Style for the navbar content */
+        .navbar-center {
+            display: flex;  /* Use flex to align and center content */
+            justify-content: center;  /* Center the content */
+            width: 100%;  /* Full width */
+        }
+
+        /* Style for the navbar links */
+        .nav-link {
+            color: white;
+            transition: color 0.3s;  /* Smooth transition for hover effects */
+        }
+
+        .nav-link:hover {
+            color: lightgray;  /* Change text color on hover */
+        }
+
+        .navbar-brand {
+            font-weight: bold;
+            font-size: 20px;  /* Larger font for brand name */
+            color:white;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <nav class="navbar navbar-expand-lg navbar">
+            <!-- Back button with FontAwesome left arrow icon -->
+            <asp:HyperLink ID="BackLink" runat="server" NavigateUrl="FYPManagerHome.aspx" CssClass="back-button">
+                <i class="fas fa-arrow-left"></i>  <!-- Left arrow icon -->
+            </asp:HyperLink>
+
+            <!-- Centered navbar content -->
+            <div class="navbar-center">
+                <!-- Brand name -->
+                <a class="navbar-brand" href="#">Committee Member</a>
+
+                <!-- Navigation links -->
+                <ul class="navbar-nav">  <!-- Centered navigation links -->
+                    <li class="nav-item">
+                        <asp:HyperLink ID="HomeLink" runat="server" NavigateUrl="FYPManagerHome.aspx" CssClass="nav-link">Home</asp:HyperLink>
+                    </li>
+                    <li class="nav-item">
+                        <asp:HyperLink ID="AssignFYPLink" runat="server" NavigateUrl="AssignFYP.aspx" CssClass="nav-link">Assign FYP</asp:HyperLink>
+                    </li>
+                    <li class="nav-item">
+                        <asp:HyperLink ID="GenerateReportsLink" runat="server" NavigateUrl="GenerateReports.aspx" CssClass="nav-link">Generate Reports</asp:HyperLink>
+                    </li>
+                    <li class="nav-item">
+                        <asp:HyperLink ID="SetDeadlinesLink" runat="server" NavigateUrl="SetProjectDeadlines.aspx" CssClass="nav-link">Set Deadlines</asp:HyperLink>
+                    </li>
+                    <li class="nav-item">
+                        <asp:HyperLink ID="ViewFYPGroupDetailsLink" runat="server" NavigateUrl="ViewFYPGroupDetails.aspx" CssClass="nav-link">View FYP Group Details</asp:HyperLink>
+                    </li>
+                    <li class="nav-item">
+                        <asp:HyperLink ID="ViewStudentsLink" runat="server" NavigateUrl="ViewStudents.aspx" CssClass="nav-link">View Registered Students</asp:HyperLink>
+                    </li>
+                    <li class="nav-item">
+                        <asp:HyperLink ID="CreateUserLink" runat="server" NavigateUrl="CreateUser.aspx" CssClass="nav-link">Create User</asp:HyperLink>
+                    </li>
+                    <li class="nav-item">
+                        <asp:HyperLink ID="LoginLink" runat="server" NavigateUrl="Login.aspx" CssClass="nav-link">Logout</asp:HyperLink>
+                    </li>
+                </ul>
+            </div>  <!-- End of centered navbar content -->
+        </nav>
+
+        <div class="container mt-4">  <!-- Content area -->
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,96 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="StudentMaster.master.cs" Inherits="StudentMaster" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <style>
+      /* Set white background for the body */
+      body {
+        background-color: white;
+        margin: 0; /* Remove default margin */
+        padding: 0; /* Remove default padding */
+      }
+
+      /* Style the "WELCOME TO FLEX" heading */
+      .welcome-heading {
+        background-color: #3498db; /* Blue background */
+        color: white;
+        padding: 20px;
+        text-align: center; /* Center text */
+      }
+
+      /* Style the navigation links container */
+      .nav-link-container {
+        display: flex; /* Use flexbox layout */
+        justify-content: space-around; /* Horizontally align items */
+        background-color: #3498db;
+        padding: 10px;
+        width: 100%; /* Take up full width */
+        height: 50px;
+      }
+
+      /* Style the navigation links */
+      .nav-link-container .nav-link {
+        color: white;
+        text-decoration: none;
+        padding: 5px;
+         font-size: 20px;
+      }
+
+      .nav-link-container .nav-link:hover {
+        background-color: #000080; /* Change background color on hover */
+      }
+
+      /* Style the content area */
+      .content-container {
+        display: flex;
+      }
+
+      .content {
+        margin-left: 20px; /* Adjust this value based on the width of the blue block and padding */
+        padding: 20px;
+      }
+
+       .footer {
+        position: fixed; /* or absolute */
+        background-color: #333;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        bottom:0;
+        width:100%;
+        height: 3px;
+      }
+
+    </style>
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+        <!-- Horizontal block with blue background behind link labels -->
+        <div class="nav-link-container">
+            <asp:LinkButton ID="LinkButton1" runat="server" CssClass="nav-link" OnClick="LinkButton1_Click1">Home</asp:LinkButton>
+            <asp:LinkButton ID="LinkButton2" runat="server" CssClass="nav-link" OnClick="LinkButton2_Click">Project Details</asp:LinkButton>
+            <asp:LinkButton ID="LinkButton3" runat="server" CssClass="nav-link" OnClick="LinkButton3_Click">Reviews & Suggestions</asp:LinkButton>
+            <asp:LinkButton ID="LinkButton4" runat="server" CssClass="nav-link" OnClick="LinkButton4_Click">Submit Progress Report</asp:LinkButton>
+            <asp:LinkButton ID="LinkButton5" runat="server" CssClass="nav-link" OnClick="LinkButton5_Click">Submit Assignments</asp:LinkButton>
+            <asp:LinkButton ID="LinkButton6" runat="server" CssClass="nav-link" OnClick="LinkButton6_Click">Transcript</asp:LinkButton>
+            <asp:LinkButton ID="LinkButton7" runat="server" CssClass="nav-link" OnClick="LinkButton7_Click">Sign Out</asp:LinkButton>
+        </div>
+
+        <!-- Content area -->
+        <div class="content-container">
+            <div class="content">
+                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

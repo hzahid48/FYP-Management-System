@@ -1,0 +1,197 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+   <title>Supervisor Master Page</title>
+       
+    <!-- Include Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet"/>
+    <!-- Include custom CSS for additional styling -->
+    <link href="styles.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+    <style>
+        /* Flexbox for centering content vertically and horizontally */
+        .center {
+            display: flex;
+            flex-direction: column;  /* Vertical stacking */
+            justify-content: center;  /* Center vertically */
+            align-items: center;  /* Center horizontally */
+            height: 100vh;  /* Full viewport height */
+        }
+            .btn.btn-primary {
+        background-color: #3498db; /* Green */
+        border-color: #3498db; /* Green */
+        color: white; /* White text */
+    }
+
+    .btn.btn-primary:hover {
+        background-color: #0d4f8b; /* Darker shade of green on hover */
+        border-color: #0d4f8b; /* Darker shade of green on hover */
+        color: white; /* White text on hover */
+    }
+    .btn.btn-secondary {
+    background-color: #3498db; /* Green */
+    border-color: #3498db; /* Green */
+    color: white; /* White text */
+}
+
+.btn.btn-secondary:hover {
+    background-color: #0d4f8b; /* Darker shade of green on hover */
+    border-color: #0d4f8b; /* Darker shade of green on hover */
+    color: white; /* White text on hover */
+}
+
+        .button-style {
+            padding: 30px 30px;
+            background-color:  #3498db;/* Default button background color */
+            color: white;  /* Button text color */
+            font-weight: bold;  /* Make the button text bold */
+            border-radius: 7px;  /* Rounded corners */
+            border: none;  /* No border */
+            margin: 30px;  /* Margin between buttons */
+            width: 300px;
+            transition: background-color 0.3s, transform 0.3s; /* Transition effect for smoother hover */
+        }
+
+        .button-style:hover {
+           background-color: #0d4f8b;  /* New background color when hovered */
+            transform: scale(1.1);  /* Increase size when hovered */
+        }
+
+     .small-button-style {
+    padding: 10px 20px;
+     background-color: #0d4f8b; /* Darker teal color with 70% opacity */
+/* Red background color */
+    color: white;  /* Button text color */
+    font-weight: bold;  /* Make the button text bold */
+    border-radius: 5px;  /* Rounded corners */
+    border: none;  /* No border */
+    margin: 60px; 
+    transition: background-color 0.3s, transform 0.3s; /* Transition effect for smoother hover */
+}
+
+        .small-button-style:hover {
+            background-color: #073763  ;/* Darker red background color when hovered */
+            transform: scale(1.1);  /* Increase size when hovered */
+        }
+
+        h1 {
+             margin-top: 45px; 
+            margin-bottom: 50px;  /* Space below the heading */
+            font-family: "Roboto", sans-serif;  /* Use Roboto font or a fallback sans-serif font */
+            font-weight: bold;  
+            text-align: left;/* Make the text bold */
+        }
+        h2 {
+    margin-top: 30px;  /* Space above the heading */
+    margin-bottom: 30px;  /* Space below the heading */
+    font-family: "Roboto", sans-serif;  /* Use Roboto font or a fallback sans-serif font */
+    font-weight: bold;  /* Make the text bold */
+    text-align: left;  /* Align the text to the left */
+}
+
+        .navbar-dark {
+            background-color:  #3498db !important; /* Blue background color */
+             padding: 0.1px 5px; 
+
+        }
+
+        .navbar-dark .navbar-brand {
+            color: white !important; /* White text color for brand */
+            font-weight: bold; /* Make brand text bold */
+            font-family: "Century Gothic", sans-serif;
+        }
+
+        .navbar-dark .navbar-nav .nav-link {
+            color: white !important; /* White text color for links */
+        }
+
+        .navbar-dark .navbar-nav .nav-link:hover {
+            color: #66CCCC !important; 
+            font-weight:bold;/* Lighter text color on hover */
+        }
+        .navbar-dark .navbar-nav .nav-link {
+            font-family: "Century Gothic", sans-serif;
+    color: white !important; /* White text color for links */
+    padding: 15px; /* Adjusted padding for full height */
+    margin: 0; /* Add padding to create boxes */
+    border: 1px solid transparent; /* Add border to create boxes */
+    transition: background-color 0.3s, border-color 0.3s; /* Smooth transition effect */
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+   background-color: #0d4f8b; /* Dark teal background color on hover */
+border-color: #0d4f8b; /* Dark teal border color on hover */
+ /* Change border color on hover */
+}
+
+          <style>
+  .left-align {
+      text-align: left;
+  }
+          .alert {
+        padding: 0.75rem 1.25rem;
+        margin-bottom: 1rem;
+        border: 1px solid transparent;
+        border-radius: 0.25rem;
+    }
+
+    .alert-success {
+        color: #155724;
+        background-color: #d4edda;
+        border-color: #c3e6cb;
+    }
+
+    .alert-danger {
+        color: #721c24;
+        background-color: #f8d7da;
+        border-color: #f5c6cb;
+    }
+
+.background-image {
+    
+    background-image: url('.jpg');
+ background-size: 100% 100%;    background-position: center;
+    height: 100vh;
+    display: flex;
+   
+}
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+    </style>
+
+
+</head>
+<body>
+   
+<header class="navbar navbar-dark bg-dark d-flex justify-content-between">
+    <span class="navbar-brand">Supervisor Home Page</span>
+    <ul class="navbar-nav flex-row">
+        <li class="nav-item mr-3">
+            <a id="ActiveFYPLink" runat="server" class="nav-link" href="#">Active FYP</a>
+        </li>
+        <li class="nav-item mr-3">
+            <a id="FYPPanelMemberLink" runat="server" class="nav-link" href="#">FYP Panel Member</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="SignIn.aspx">Logout</a>
+        </li>
+    </ul>
+</header>
+
+
+  <div class="background-image">   
+    <!-- Content Placeholder -->
+    <div class="container">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    </div>
+      </div>
+</body>
+</html>
